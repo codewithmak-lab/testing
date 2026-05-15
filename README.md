@@ -66,16 +66,5 @@ This project is open-source and available under the MIT License.
 
 👨‍💻 Author
 
-Developed with ❤️ by Your Name
+Developed with ❤️ codewithmak
 
-
-Replace:
-- `your-username` with your GitHub username
-- `Your Name` with your actual name
-
-You can also ask me to create:
-- A more stylish README
-- Animated GitHub README
-- Professional developer portfolio style README
-- README with badges and icons
-- Dark theme markdown version
